@@ -1,4 +1,4 @@
-# Hi, I'm Yue Wang 👋
+# Hi, I'm Yue Wang
 
 I'm a Software Engineer with 8+ years of industry experience and a Master of Data Science from UBC. I build machine learning and AI applications, with interests in LLM agents, Retrieval-Augmented Generation (RAG), computer vision, and MLOps.
 

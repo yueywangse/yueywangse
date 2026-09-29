@@ -8,6 +8,7 @@ I'm currently seeking opportunities in **Machine Learning Engineering**, **Appli
 
 ## About Me
 
+- Master of Artificial Intelligence, Northwestern University (2027)
 - Master of Data Science, University of British Columbia (2026)
 - 8+ years of professional software engineering experience
 - Building LLM applications, AI agents, and Retrieval-Augmented Generation systems
